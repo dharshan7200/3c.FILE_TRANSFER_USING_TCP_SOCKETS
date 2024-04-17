@@ -58,7 +58,7 @@ while True:
     conn.close()
 ```
 ## OUPUT
-![Uploading Screenshot 2024-04-17 075142.png…]()
+![Screenshot 2024-04-17 075142](https://github.com/dharshan7200/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/138850116/62db948f-2332-40dd-8adb-db794b5f574e)
 
 
 ## RESULT
